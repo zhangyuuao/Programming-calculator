@@ -6,7 +6,8 @@ The Great Assignment of 《Data Structure》from Chapter1 to Chapter5.
 
 用户在运行程序后，看到如下显示：
 
-<img src="/Users/zhangyuyao/Library/Application Support/typora-user-images/截屏2021-11-04 下午10.35.05.png" alt="截屏2021-11-04 下午10.35.05" style="zoom: 50%;" />
+<img width="547" alt="截屏2021-11-06 上午1 08 51" src="https://user-images.githubusercontent.com/77565562/140550658-84cd7d64-7396-4d2b-ac30-7d4b40e071de.png">
+
 
 然后在终端输入<u>**"A","B","C","D","E","F"**</u>中的一个，注意需要为【**大写**】，然后直接按下回车键。
 
@@ -142,6 +143,7 @@ DEF g(x)=f(x)^2
   - 使用方法同上。
 
  **输入示例**：
+ 
+<img width="352" alt="截屏2021-11-06 上午1 09 51" src="https://user-images.githubusercontent.com/77565562/140550813-a0e3acef-ba7f-4214-a44f-8d062ac9da81.png">
 
-<img src="/Users/zhangyuyao/Library/Application Support/typora-user-images/截屏2021-11-04 下午11.57.24.png" alt="截屏2021-11-04 下午11.57.24" style="zoom:67%;" />
 
