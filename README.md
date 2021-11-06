@@ -1,5 +1,5 @@
 # Programming-calculator
-**The Great Assignment of 《Data Structure》from Chapter1 to Chapter5.To tell you more, read this instruction manual below.**
+**The Great Assignment of 《Data Structure》from Chapter1 to Chapter5. To tell you more, read this instruction manual below.**
 ### 使用手册✏️
 
 ---
